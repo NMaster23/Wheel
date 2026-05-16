@@ -416,13 +416,17 @@
         "uuid": "f5631dcf-1cf4-4de1-8ce6-d7f2fa6a2806"
       }
     ],
-    "used_designators": "U1-2,R1-5,J1,#PWR1-15,F1,C1-14,Y1,SW1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "f5631dcf-1cf4-4de1-8ce6-d7f2fa6a2806",
       "Wheel"
+    ],
+    [
+      "016fc803-8a45-402f-8abf-99ba354c9ca0",
+      "MT6835"
     ]
   ],
   "text_variables": {},
