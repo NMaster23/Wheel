@@ -70,7 +70,32 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|183190000|40360000|F.Cu|4|44f3ec94-1d68-4b4f-a941-27eea3728424|9fc928d7-116b-4e35-bc98-495dbd6a0a3d",
+          ""
+        ],
+        [
+          "unconnected_items|184260000|45455000|F.Cu|4|95dc0147-16a6-4a81-a899-d3a2ca882791|371f3de0-51c8-45e3-984a-e1ae3838ee9c",
+          ""
+        ],
+        [
+          "unconnected_items|191830000|40360000|F.Cu|4|68f08c96-3239-4406-a704-f5c604451287|44f3ec94-1d68-4b4f-a941-27eea3728424",
+          ""
+        ],
+        [
+          "unconnected_items|191830000|44540000|F.Cu|4|add99479-6a9c-4b9b-9f30-07d39dfb0228|68f08c96-3239-4406-a704-f5c604451287",
+          ""
+        ],
+        [
+          "unconnected_items|219432500|59225000|F.Cu|4|3a0d404d-70ef-41ec-8a17-5bb3cb18c91a|580721c1-515b-445b-8e3a-5278498e8c7d",
+          ""
+        ],
+        [
+          "unconnected_items|229190000|66350000|F.Cu|4|5b0c44a3-45ca-429f-8775-21e3e166e8af|ba1b8a18-8b1b-4ae0-b32e-bb676bb6591e",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
