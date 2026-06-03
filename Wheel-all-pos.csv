@@ -25,9 +25,9 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "D2","LED","LED_0603_1608Metric",105.110000,-51.860000,180.000000,top
 "D3","BAT54C","SOT-23",86.000000,-56.240000,-90.000000,top
 "J1","USB_C_Receptacle_USB2.0_14P","USB_C_Receptacle_HRO_TYPE-C-31-M-12",95.120000,-28.280000,180.000000,top
-"J2","GND-A-B-Z-PWM","PinHeader_1x05_P2.54mm_Vertical",117.190000,-42.930000,180.000000,top
-"J3","CAL-W-V-U-GND","PinHeader_1x05_P2.54mm_Vertical",131.150000,-42.930000,-90.000000,top
-"J4","J4(Pins 6-3)-VDDA(1)/3V3-GND","PinHeader_1x06_P2.54mm_Vertical",134.770000,-45.350000,180.000000,top
+"J2","Conn_01x05","PinHeader_1x05_P2.54mm_Vertical",117.190000,-42.930000,180.000000,top
+"J3","Conn_01x05","PinHeader_1x05_P2.54mm_Vertical",131.150000,-42.930000,-90.000000,top
+"J4","Conn_01x06","PinHeader_1x06_P2.54mm_Vertical",134.770000,-45.350000,180.000000,top
 "J5","Conn_01x06","PinHeader_1x06_P2.54mm_Vertical",113.320000,-64.870000,0.000000,top
 "J6","Conn_01x04","FanPinHeader_1x04_P2.54mm_Vertical",112.440000,-53.640000,-90.000000,top
 "J7","UART","FanPinHeader_1x04_P2.54mm_Vertical",119.110000,-65.300000,90.000000,top
