@@ -1355,7 +1355,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "567854f9-3e79-4e92-b892-8d5f357738ef")
-		(property "Reference" "J17"
+		(property "Reference" "J13"
 			(at 189.23 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1440,7 +1440,7 @@
 		(instances
 			(project "Wheel V3"
 				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/c571442b-5270-47cf-acbf-8c0f5836bd1c"
-					(reference "J17")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -1458,7 +1458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "892c5b89-d57c-4b83-af1f-e338acc58427")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR055"
 			(at 167.64 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -1519,7 +1519,7 @@
 		(instances
 			(project "Wheel V3"
 				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/c571442b-5270-47cf-acbf-8c0f5836bd1c"
-					(reference "#PWR053")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -1537,7 +1537,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a90feaef-7b9e-4e40-ab32-3f6360653de1")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR054"
 			(at 175.26 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -1598,7 +1598,7 @@
 		(instances
 			(project "Wheel V3"
 				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/c571442b-5270-47cf-acbf-8c0f5836bd1c"
-					(reference "#PWR052")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
