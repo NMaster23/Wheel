@@ -13411,7 +13411,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 101.6 137.1599 0)
 			(hide yes)
 			(show_name no)
@@ -16034,7 +16034,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1.5k"
 			(at 129.54 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16272,7 +16272,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 130.81 132.3974 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17735,7 +17735,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1.5k"
 			(at 119.38 123.1899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18903,7 +18903,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "GREEN"
 			(at 120.65 132.3974 90)
 			(show_name no)
 			(do_not_autoplace no)
