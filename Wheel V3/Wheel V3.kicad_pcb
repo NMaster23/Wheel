@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../Production/")
+			(outputdirectory "../Gerbers/")
 		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
@@ -1557,7 +1557,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2933,7 +2933,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1.5k"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "4cac1483-9675-4d9e-843d-47adc80c6973")
@@ -6695,7 +6695,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "GREEN"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "2567e7fb-e876-4232-875b-d020aa18c117")
@@ -7683,7 +7683,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "5899d8e3-f781-447c-88b9-13652fc73afe")
@@ -8151,7 +8151,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1.5k"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "d9ac50b2-8df7-4b88-af41-791914706d20")
