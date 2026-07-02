@@ -5,6 +5,8 @@ This is made to be used as a controller for a hoverboard hub motor. That way you
 ## Setup
 This controller will be flashed with the OpenFFBoard firmware over the dedicated ST-Link port. It is the unlabeled 1 x 5 connector. I will then flash the hoverboard with: ![Hoverboard Firmware](https://github.com/flo199213/Hoverboard-Firmware-Hack-Gen2). This will then allow me to use the hoverboard as a regular BLDC motor thus allowing me to create a fully working sim wheel.
 
+## Design
+
 This is a picture of the full schematic:
 ![Schematic](https://github.com/NMaster23/Wheel/blob/3d5918cc2e5182b45f3dc3a3820b7830cf7105c5/Assets/Schematic.png)
 
