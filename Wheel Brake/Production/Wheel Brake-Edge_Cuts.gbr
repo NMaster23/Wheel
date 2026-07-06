@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*%
+%TF.CreationDate,2026-07-06T12:34:38-07:00*%
+%TF.ProjectId,Wheel Brake,57686565-6c20-4427-9261-6b652e6b6963,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.3) date 2026-07-06 12:34:38*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X118872000Y-44704000D02*
+X188722000Y-44704000D01*
+X188722000Y-79502000D01*
+X118872000Y-79502000D01*
+X118872000Y-44704000D01*
+M02*

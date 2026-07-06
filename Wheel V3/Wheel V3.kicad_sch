@@ -19447,52 +19447,6 @@
 		)
 	)
 	(sheet
-		(at 238.76 57.785)
-		(size 31.115 19.685)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "a0ace797-0c5f-4d0d-9275-30e00d18e794")
-		(property "Sheetname" "Brake"
-			(at 238.76 57.0734 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Brake.kicad_sch"
-			(at 238.76 78.0546 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Wheel V3"
-				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 235.585 129.54)
 		(size 30.48 16.51)
 		(exclude_from_sim no)
