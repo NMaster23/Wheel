@@ -2377,7 +2377,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00188824-e996-4416-b267-275246e96d6d")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR067"
 			(at 82.55 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -2441,6 +2441,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR067")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2455,7 +2461,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "064f23e7-367b-49d6-b42e-b4b61eb2065c")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR076"
 			(at 102.87 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2519,6 +2525,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR076")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2533,7 +2545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "122cae16-1067-4003-a648-c09df59a9137")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 81.28 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2555,7 +2567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 82.55 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -2619,6 +2631,12 @@
 					(unit 3)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "U5")
+					(unit 3)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2654,7 +2672,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 78.74 56.642 90)
 			(hide yes)
 			(show_name no)
@@ -2701,7 +2719,7 @@
 				)
 			)
 			(project "Wheel V3"
-				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/39b05095-bf0a-461a-bc41-a35927b9d77f"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
 					(reference "R17")
 					(unit 1)
 				)
@@ -2719,7 +2737,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "18ff256d-8863-435e-8014-78c3929516ad")
-		(property "Reference" "J3"
+		(property "Reference" "J14"
 			(at 62.738 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2739,7 +2757,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical"
 			(at 57.15 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2785,6 +2803,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "J14")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2798,7 +2822,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a29a760-15dd-4b0a-a12b-0d6dc308f861")
-		(property "Reference" "R19"
+		(property "Reference" "R18"
 			(at 106.045 64.1349 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2820,7 +2844,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 107.95 59.182 90)
 			(hide yes)
 			(show_name no)
@@ -2866,6 +2890,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "R18")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2880,7 +2910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d31c654-8c86-4ea4-a996-111de3fa5d04")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR061"
 			(at 166.37 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -2944,6 +2974,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR061")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -2958,7 +2994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20d04352-4a60-424a-a5b0-20cee2d47cbd")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR075"
 			(at 129.54 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3023,6 +3059,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR075")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3038,7 +3080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "347ad0c6-7c47-4f89-878a-2f9213a543bf")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR072"
 			(at 55.88 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3103,6 +3145,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR072")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3117,7 +3165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34e433af-88c1-4de5-b19a-1e0cf9be4b41")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR060"
 			(at 135.89 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3181,6 +3229,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR060")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3195,7 +3249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e37720c-06d9-4b4b-b187-34eec5f9d47a")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 96.52 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3215,7 +3269,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 96.52 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -3280,8 +3334,8 @@
 				)
 			)
 			(project "Wheel V3"
-				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/39b05095-bf0a-461a-bc41-a35927b9d77f"
-					(reference "U4")
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -3299,7 +3353,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44a722e2-c9c5-48a6-a5d3-188764cbb1a9")
-		(property "Reference" "C4"
+		(property "Reference" "C19"
 			(at 176.53 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3321,7 +3375,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 173.6852 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -3367,6 +3421,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "C19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3404,7 +3464,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-3_Vertical"
 			(at 135.89 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -3454,7 +3514,7 @@
 				)
 			)
 			(project "Wheel V3"
-				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/39b05095-bf0a-461a-bc41-a35927b9d77f"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
 					(reference "Q1")
 					(unit 1)
 				)
@@ -3473,7 +3533,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b4627d8-fab1-4633-8d19-5895bef189c5")
-		(property "Reference" "J2"
+		(property "Reference" "J15"
 			(at 122.682 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3493,7 +3553,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_AMASS:AMASS_XT60-M_1x02_P7.20mm_Vertical"
 			(at 128.27 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3539,6 +3599,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "J15")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3553,7 +3619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ece9e27-37cd-4f4b-a2e0-fd51056565d4")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR073"
 			(at 45.72 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3618,6 +3684,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR073")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3632,7 +3704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54da6a43-67b9-4603-b6da-690cbcda8408")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR058"
 			(at 158.75 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3696,6 +3768,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR058")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3710,7 +3788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "656e570c-2197-41fb-ac73-5a958d3ce6a3")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR070"
 			(at 102.87 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3774,6 +3852,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR070")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3788,7 +3872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65ceb160-b2e5-4184-b351-c6c79050398c")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR074"
 			(at 80.01 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -3852,6 +3936,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR074")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3866,7 +3956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68626f6c-dfbb-4b48-b7ee-210d553a4c09")
-		(property "Reference" "C1"
+		(property "Reference" "C20"
 			(at 151.13 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3888,7 +3978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.2852 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3934,6 +4024,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "C20")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -3948,7 +4044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7520e3cc-21a7-4ab2-8b9e-6a66e6db75f5")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR069"
 			(at 80.01 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -4012,6 +4108,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR069")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4026,7 +4128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "882260e8-1f2b-4d10-a9bd-139ac87b1378")
-		(property "Reference" "C3"
+		(property "Reference" "C18"
 			(at 162.56 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4048,7 +4150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 159.7152 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4094,6 +4196,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "C18")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4108,7 +4216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89a6784c-327d-4153-a5df-4ac7f6cd2fc1")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR065"
 			(at 78.74 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4172,6 +4280,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR065")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4186,7 +4300,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98c76a9f-a569-4700-8a0d-11b56fc98385")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR068"
 			(at 154.94 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4250,6 +4364,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR068")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4264,7 +4384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99432d09-34a1-4d7f-9951-2a5c49aea41f")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR063"
 			(at 68.58 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -4329,6 +4449,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4366,7 +4492,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 90.678 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -4413,7 +4539,7 @@
 				)
 			)
 			(project "Wheel V3"
-				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/39b05095-bf0a-461a-bc41-a35927b9d77f"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
 					(reference "R16")
 					(unit 1)
 				)
@@ -4432,7 +4558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fc1dec7-356f-403e-94ff-482f4895528a")
-		(property "Reference" "U2"
+		(property "Reference" "U7"
 			(at 105.0133 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4518,6 +4644,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "U7")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4532,7 +4664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afecfa15-9758-4d73-bf69-c9cdb2f7a4d1")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR066"
 			(at 154.94 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -4596,6 +4728,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR066")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4610,7 +4748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2f42e24-79bb-49c3-b300-585958431736")
-		(property "Reference" "C2"
+		(property "Reference" "C21"
 			(at 165.1 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4632,7 +4770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 162.2552 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -4678,6 +4816,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "C21")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4693,7 +4837,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3f0504e-365d-4d32-b05f-aaf137cbb28d")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR071"
 			(at 133.35 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -4758,8 +4902,8 @@
 				)
 			)
 			(project "Wheel V3"
-				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/39b05095-bf0a-461a-bc41-a35927b9d77f"
-					(reference "#PWR056")
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -4776,7 +4920,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b8edf5f3-52d8-43d2-94d3-c18ae8380eda")
-		(property "Reference" "R18"
+		(property "Reference" "R19"
 			(at 73.914 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4798,7 +4942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 78.74 65.278 90)
 			(hide yes)
 			(show_name no)
@@ -4844,6 +4988,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "R19")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4858,7 +5008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b92e8c0f-f560-48df-b0e6-2b1fde648c75")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR059"
 			(at 172.72 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -4922,6 +5072,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR059")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -4936,7 +5092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5a8d856-f3fa-4000-b955-585a4a4481c7")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR064"
 			(at 107.95 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -5000,6 +5156,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR064")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5015,7 +5177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6e20e29-610f-4157-8beb-e5922359602c")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR062"
 			(at 88.9 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5079,6 +5241,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5093,7 +5261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc200c79-79fa-4354-b9fc-4750e199de45")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR057"
 			(at 139.7 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5158,6 +5326,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR057")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5172,7 +5346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed53638b-a85f-4fa4-9a27-27d558e1ffe5")
-		(property "Reference" "U5"
+		(property "Reference" "U6"
 			(at 85.09 64.7699 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5255,8 +5429,8 @@
 				)
 			)
 			(project "Wheel V3"
-				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/39b05095-bf0a-461a-bc41-a35927b9d77f"
-					(reference "U5")
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -5274,7 +5448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7c3eddf-b2cf-4f96-a9dd-31ae2367c95d")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR056"
 			(at 132.08 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5339,6 +5513,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "#PWR056")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -5353,7 +5533,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f870b3e1-55c4-44df-83f6-b1ad693000c3")
-		(property "Reference" "U1"
+		(property "Reference" "U4"
 			(at 135.89 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5373,7 +5553,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT"
 			(at 136.525 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -5424,12 +5604,12 @@
 					(unit 1)
 				)
 			)
+			(project "Wheel V3"
+				(path "/9ec62b0c-f2ce-42d9-a60a-bf785e542e97/a0ace797-0c5f-4d0d-9275-30e00d18e794"
+					(reference "U4")
+					(unit 1)
+				)
+			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )

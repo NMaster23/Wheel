@@ -708,7 +708,7 @@
         "uuid": "9ec62b0c-f2ce-42d9-a60a-bf785e542e97"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C1-21,R1-19,J1-15,Q1,U1-7,D1-4,#PWR1-76,F1,FB1,IC1,SW1-2,Y1",
     "variants": []
   },
   "sheets": [
@@ -719,6 +719,10 @@
     [
       "c571442b-5270-47cf-acbf-8c0f5836bd1c",
       "MT6835"
+    ],
+    [
+      "a0ace797-0c5f-4d0d-9275-30e00d18e794",
+      "Brake"
     ]
   ],
   "text_variables": {},
