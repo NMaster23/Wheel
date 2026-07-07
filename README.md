@@ -8,22 +8,22 @@ This controller will be flashed with the OpenFFBoard firmware over the dedicated
 ## Design
 
 This is a picture of the full schematic:
-![Schematic](https://github.com/NMaster23/Wheel/blob/3d5918cc2e5182b45f3dc3a3820b7830cf7105c5/Assets/Schematic.png)
+![Schematic](Assets/Schematic.png)
 
 This is a picture of the board for the MT6835 magnetic encoder:
-![MT6835](https://github.com/NMaster23/Wheel/blob/3d5918cc2e5182b45f3dc3a3820b7830cf7105c5/Assets/MT6835.png)
+![MT6835](Assets/MT6835.png)
 
 This is a picture of the board for the Brake Chopper:
-![Brake Chopper](https://github.com/NMaster23/Wheel/blob/a4d66417bb2d2398f75a14e9f4c6262fef67cefc/Assets/Brake_Schematic.png)
+![Brake Chopper](Assets/Brake_Schematic.png)
 
 This is a picture of the full PCB:
-![PCB](https://github.com/NMaster23/Wheel/blob/3d5918cc2e5182b45f3dc3a3820b7830cf7105c5/Assets/PCB.png)
+![PCB](Assets/PCB.png)
 
 This is a picture of the Brake Chopper PCB:
-![Brake Chopper PCB](https://github.com/NMaster23/Wheel/blob/a4d66417bb2d2398f75a14e9f4c6262fef67cefc/Assets/Brake_PCB.png)
+![Brake Chopper PCB](Assets/Brake_PCB.png)
 
 This is a picture of the expected product, but missing a few footprints:
-![Product](https://github.com/NMaster23/Wheel/blob/3d5918cc2e5182b45f3dc3a3820b7830cf7105c5/Assets/Result.png)
+![Product](Assets/Result.png)
 
 This is a picture of the expected Brake Chopper:
-![Expected Brake Chopper](https://github.com/NMaster23/Wheel/blob/a4d66417bb2d2398f75a14e9f4c6262fef67cefc/Assets/Brake_Result.png)
+![Expected Brake Chopper](Assets/Brake_Result.png)
