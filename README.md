@@ -5,6 +5,18 @@ This is made to be used as a controller for a hoverboard hub motor. That way you
 ## Setup
 This controller will be flashed with the OpenFFBoard firmware over the dedicated ST-Link port. It is the unlabeled 1 x 5 connector. I will then flash the hoverboard with: ![Hoverboard Firmware](https://github.com/flo199213/Hoverboard-Firmware-Hack-Gen2). This will then allow me to use the hoverboard as a regular BLDC motor thus allowing me to create a fully working sim wheel.
 
+## BOM
+This design requires a lot of parts. So there are 3 places the parts need to be bought from. Ebay for the motor itself, I am using a motherboard I already have that I have verified works with this.
+
+Motor: ![Hoverboard Wheel](https://www.ebay.com/itm/235749412178?var=537031133156)
+PCB: ![JLCPCB](https://jlcpcb.com/)
+Miscellaneous Components: ![Amazon](https://www.amazon.com/)
+
+### BOM Screenshots:
+Motor: ![Ebay Checkout](Assets/BOM_Ebay.png)
+PCB: ![JLCPCB Checkout](Assets/BOM_JLCPCB.png)
+Miscellaneous Components: ![Amazon Cart](Assets/BOM_Amazon.png)
+
 ## Design
 
 This is a picture of the full schematic:
