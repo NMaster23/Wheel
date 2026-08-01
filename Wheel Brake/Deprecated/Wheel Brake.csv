@@ -1,0 +1,15 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C2";"C_0805_2012Metric";2;"10uF";;;
+2;"C3, C4";"C_0805_2012Metric";2;"100nF";;;
+3;"D1";"TO-220-2_Vertical";1;"D_Schottky";;;
+4;"J1";"AMASS_XT60-M_1x02_P7.20mm_Vertical";1;"PWR";;;
+5;"J2";"AMASS_XT60-M_1x02_P7.20mm_Vertical";1;"Resistor";;;
+6;"Q1";"TO-220-3_Vertical";1;"STP110N8F6";;;
+7;"R1";"R_0805_2012Metric";1;"2.2m";;;
+8;"R2";"R_0805_2012Metric";1;"100k";;;
+9;"R3, R4, R5";"R_0805_2012Metric";3;"10k";;;
+10;"R6";"R_0805_2012Metric";1;"10";;;
+11;"U1";"Converter_DCDC_RECOM_R-78E-0.5_THT";1;"L7812";;;
+12;"U2";"SOIC-8_3.9x4.9mm_P1.27mm";1;"LM393";;;
+13;"U3";"SOIC-8_3.9x4.9mm_P1.27mm";1;"TL431D";;;
+14;"U4";"SOIC-8_3.9x4.9mm_P1.27mm";1;"TC4427xOA";;;

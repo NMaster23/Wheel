@@ -526,6 +526,7 @@
       "netlist": "",
       "plot": "Production/",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
