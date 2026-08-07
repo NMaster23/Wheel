@@ -7,6 +7,8 @@ This controller will be flashed with the OpenFFBoard firmware over the dedicated
 
 ## BOM
 This design requires a lot of parts. So there are 3 places the parts need to be bought from. Ebay for the motor itself, I am using a motherboard I already have that I have verified works with this.
+Wheel V3 CSV: ![Wheel V3](Wheel%20V3/BOM_Wheel_V3_JLCPCB.csv)
+Wheel Brake CSV: ![Wheel Brake](Wheel%20Brake/Wheel_Brake_BOM_JLCPCB.csv)
 
 Motor: ![Hoverboard Wheel](https://www.ebay.com/itm/235749412178?var=537031133156)
 PCB: ![JLCPCB](https://jlcpcb.com/)
