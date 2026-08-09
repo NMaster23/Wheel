@@ -41,3 +41,6 @@ This is a picture of the expected product, but missing a few footprints:
 
 This is a picture of the expected Brake Chopper:
 ![Expected Brake Chopper](Assets/Brake_Result.png)
+
+## Why
+I decided to try and make this project because ever since I was a kid I have always loved racing and playing racing games. I just could not afford to buy the actual wheel to play it on. And when one of my friends told me about Hack Club I got the opportunity to make what I want instead of just buying it off the shelf turning it into a learning experience. This has all come together for my wheel project with my hours of research and development coming together for this.
